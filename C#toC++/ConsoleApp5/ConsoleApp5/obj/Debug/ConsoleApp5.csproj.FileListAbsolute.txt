@@ -1,0 +1,14 @@
+C:\Users\Yigalgr\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+C:\Users\Yigalgr\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+C:\Users\Yigalgr\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+C:\Users\Yigalgr\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csprojAssemblyReference.cache
+C:\Users\Yigalgr\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Users\Yigalgr\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+C:\Users\Yigalgr\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
+C:\workspace\C#toC++\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+C:\workspace\C#toC++\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+C:\workspace\C#toC++\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+C:\workspace\C#toC++\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csprojAssemblyReference.cache
+C:\workspace\C#toC++\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\workspace\C#toC++\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+C:\workspace\C#toC++\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
